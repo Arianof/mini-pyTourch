@@ -36,10 +36,8 @@ This mini PyTorch project is designed as a learning tool for understanding:
 - The structure of neural networks and how layers and neurons interact.
 - The fundamentals of training a model using gradient descent.
 
-Whether you’re a student, a deep learning enthusiast, or just curious about how popular frameworks like PyTorch work under the hood, this project provides a hands-on approach to grasp the core concepts of neural network training and automatic differentiation.
-
 ## Getting Started
 
 To start experimenting with Mini PyTorch, simply clone the repository, explore the code, and try building and training your own neural network models. Contributions and feedback are welcome!
 
-Happy coding!
+
